@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @vikramwebdev
 - 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning in 3rd year at IIIT Vadodara.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on web development.
+- 💬 Ask me about android-ui-design/web development.
+- 📫 How to reach me vikkeyraj5165@gmail.com
+
 
 <!---
 vikramwebdev/vikramwebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
