@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vikram Kumar
 - 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and its frameworks.
 - 💞️ I’m looking to collaborate on web development.
-- 💬 Ask me about android-ui-design/web development.
+- 💬 Ask me about web development and logo making.
 - 📫 How to reach me vikramkumar2552003@gmail.com
 
 
